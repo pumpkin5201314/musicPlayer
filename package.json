@@ -15,7 +15,7 @@
   "devDependencies": {
     "autoprefixer": "^8.1.0",
     "cssnano": "^3.10.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-clean-css": "^4.2.0",
     "gulp-concat": "^2.6.1",
     "gulp-connect": "^5.5.0",
